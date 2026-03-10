@@ -1,4 +1,4 @@
-#MERN Stack Setup
+# **MERN Stack Setup**
 
 A clean and simple starter template for building full-stack web applications using the MERN stack.
 
