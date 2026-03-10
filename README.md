@@ -6,7 +6,7 @@ This repository provides a basic project structure with separated **frontend and
 
 The MERN stack consists of **MongoDB, Express, React, and Node.js**, a popular JavaScript-based technology stack used to build modern web applications where JavaScript is used on both the client and server.
 
-## **Tech Stack**
+# **Tech Stack**
 **Backend**
 - Node.js
 - Express.js
