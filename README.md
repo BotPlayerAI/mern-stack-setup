@@ -43,3 +43,15 @@ mern-stack-setup
 This structure separates the **API server from the frontend client**, making the project easier to scale and maintain.
 
 ---
+
+# **How the MERN Stack Works**
+
+In a MERN application:
+
+1. **React** handles the user interface.
+2. **Express + Node.js** run the backend server and API.
+3. **MongoDB** stores the application data.
+
+Typically, the frontend sends requests to the backend API, which processes logic and interacts with the database before returning responses to update the UI.
+
+---
