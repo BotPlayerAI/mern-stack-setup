@@ -38,4 +38,8 @@ mern-stack-setup
 │   └── pages
 │
 └── README.md
+```
 
+This structure separates the **API server from the frontend client**, making the project easier to scale and maintain.
+
+---
