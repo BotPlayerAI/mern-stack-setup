@@ -88,3 +88,18 @@ Frontend:
 ```
 npm run dev
 ```
+
+---
+
+# **Purpose of this Project**
+
+This project was created as a **starting point for MERN applications**, helping developers avoid repeatedly setting up the same environment when starting new projects.
+
+It is ideal for:
+
+- Learning full-stack development
+- Rapid prototyping
+- Building scalable web applications
+- Creating personal or portfolio projects
+
+---
