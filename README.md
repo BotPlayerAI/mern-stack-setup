@@ -58,14 +58,14 @@ Typically, the frontend sends requests to the backend API, which processes logic
 
 # **Getting Started**
 
-1. Clone the repository
+## **1. Clone the repository**
 
 ```
 git clone https://github.com/BotPlayerAI/mern-stack-setup.git
 cd mern-stack-setup
 ```
 
-2. Install dependencies
+## **2. Install dependencies**
 
 Backend:
 ```
@@ -78,7 +78,7 @@ cd frontend
 npm install
 ```
 
-3. Run the development servers
+## **3. Run the development servers**
 
 Backend:
 ```
